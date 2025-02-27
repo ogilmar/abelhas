@@ -1,6 +1,6 @@
-# 🐝 Estudo de impacto de variáveis ambientais sobre a reprodução de abelhas solitárias Centris analis🐝
+# 🐝 Estudo de impacto de variáveis ambientais sobre a reprodução de abelhas 🐝
 
-A Centris analis é uma abelha solitária coletora de óleo,  com uma distribuição geográfica que se estende do Brasil ao México¹. C. analis é uma abelha pequena e voadora rápida com uma largura média da cabeça de 3,21 mm e 3,54 mm para machos e fêmeas, respectivamente². Enquanto a maioria das espécies do gênero Centris criam tocas para nidificação, C. analis e outras espécies do subgênero Heterocentris constroem ninhos em cavidades pré-existentes em vez de no solo³. C. analis é um polinizador de muitas espécies de plantas, especialmente aquelas da família Malpighiaceae , o que tem incentivado sua aplicação em pomares de acerola.
+As abelhas possuem grande importância para a polinização de plantas de em todo o mundo, assim é de grande importância conhecer o impacto do meio ambiante sobre aspectos reprodutivos das abelhas. O presente estudo foi realizado no ano de 2023, abrangendo o final da estação chuvosa e toda a estação seca, os dados foram obtidos com base em observações a campo durante o ano de 2023, no Brasil.
 
 ## Objetivo
 Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos nascidos, sobrevivência e morfometria de abelhas solitárias (C. analis).
