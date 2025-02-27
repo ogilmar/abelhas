@@ -2,7 +2,8 @@
 
 A Centris analis é uma abelha solitária coletora de óleo,  com uma distribuição geográfica que se estende do Brasil ao México¹. C. analis é uma abelha pequena e voadora rápida com uma largura média da cabeça de 3,21 mm e 3,54 mm para machos e fêmeas, respectivamente². Enquanto a maioria das espécies do gênero Centris criam tocas para nidificação, C. analis e outras espécies do subgênero Heterocentris constroem ninhos em cavidades pré-existentes em vez de no solo³. C. analis é um polinizador de muitas espécies de plantas, especialmente aquelas da família Malpighiaceae , o que tem incentivado sua aplicação em pomares de acerola.
 
-
+## Objetivo
+Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos nascidos, sobrevivência e morfometria de abelhas solitárias (C. analis).
 
 ## Referências
 
