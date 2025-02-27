@@ -1,16 +1,16 @@
 #Estudando as vari?veis ambientais
 
-#Selecionando o diret?rio
+#Selecionando o diretório
 setwd("~/Documentos_pessoais/Estudos_abelha_solitaria")
 
-#Pacotes necessarios
+#Pacotes necessários
 
 library(ggplot2)
 
 #Importando os dados
 dados1=read.table("dados_1.txt",h=T)
 
-#Identificando variaveis
+#Identificando variáveis
 
 TemperaturaExterna=dados1[,9]
 UmidadeExterna=dados1[,10]
@@ -37,7 +37,7 @@ ggplot(dados1, aes(x = TemperaturaExterna)) +
        y = "Frequ?ncia") +
   theme_minimal()
 
-# Gr?fico de densidade (distribui??o suavizada)
+# Gráfico de densidade (distribuição suavizada)
 ggplot(dados1, aes(x = TemperaturaExterna, fill = NULL)) +
   geom_density(alpha = 0.5) +
   labs(title = "Densidade do Peso",
@@ -65,7 +65,7 @@ ggplot(dados1, aes(x = TemperaturaInterna)) +
        y = "Frequ?ncia") +
   theme_minimal()
 
-# Gr?fico de densidade (distribui??o suavizada)
+# Gráfico de densidade (distribui??o suavizada)
 ggplot(dados1, aes(x = TemperaturaInterna, fill = NULL)) +
   geom_density(alpha = 0.5) +
   labs(title = "Densidade da Temperatura Interna",
