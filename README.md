@@ -5,3 +5,9 @@ As abelhas possuem grande importância para a polinização de plantas de em tod
 ## Objetivo
 Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos nascidos, sobrevivência e morfometria de uma espécie de abelha nativa do Brasil.
 
+## Variáveis ambientais analizadas
+🐝 Temperatura interna da colmeia
+🐝 Temperatura externa à colmeia
+🐝 Umidade interna da colmeia
+🐝 Umidade externa da colmeia
+🐝 Pluviometria
