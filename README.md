@@ -7,7 +7,18 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 
 ## Variáveis ambientais analizadas
 🐝 Temperatura interna da colmeia
+
 🐝 Temperatura externa à colmeia
+
 🐝 Umidade interna da colmeia
+
 🐝 Umidade externa da colmeia
+
 🐝 Pluviometria
+
+## Variáveis morfométricas analizadas
+🐝 Peso corporal
+
+🐝 Medida intertegular
+
+🐝 Comprimento corporal
