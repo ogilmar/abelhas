@@ -22,3 +22,10 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 🐝 Medida intertegular
 
 🐝 Comprimento corporal
+
+## Principais resultados
+🐝 Abelhas fêmeas possuem maior peso e comprimento que abelhas macho (p<0,05)
+
+🐝 Abelhas nascidas durante o período chuvoso possuíam maior peso corporal (p<0,05)
+
+🐝 Abelhas fêmeas possuem maior peso e comprimento que abelhas macho (p<0,05)
