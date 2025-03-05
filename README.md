@@ -25,9 +25,7 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 
 ## Principais resultados
 
-### Variáveis ambientais monitoradas. 
-
-As observaçções foram feiras entre as estações seca e chuvosa e a Figura 1 mostra o comportamento da precipotação (em mm de chuva) entre os meses de Março e Dezembro.
+### Variáveis ambientais 
 
 #### Figura 1. Precipitação (mm) de chuva durante o período experimental
 ![grafico_precipitacao](https://github.com/user-attachments/assets/7e409101-e22e-4549-9ff0-99be5bd78d60)
@@ -71,8 +69,6 @@ As observaçções foram feiras entre as estações seca e chuvosa e a Figura 1 
 
 #### Figura 11. Série temporal da umidade do ar (%).
 ![serietemporal_umidade](https://github.com/user-attachments/assets/7f289654-68ff-42e5-aa3c-7e39af0500ce)
-
-
 
 
 🐝 Abelhas fêmeas possuem maior peso e comprimento que abelhas macho (p<0,05)
