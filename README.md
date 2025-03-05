@@ -28,10 +28,30 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ### Variáveis ambientais monitoradas
 
 #### Figura 1. Boxplot da temperatura (°C) externa à colmeia.
-![Boxplot_temperatura_externa](https://github.com/user-attachments/assets/fe5712f2-19a2-42ac-8022-a4d3e89e6cf6)
+![Boxplot_temperatura_externa](https://github.com/user-attachments/assets/af4f12e7-00a7-4788-a007-4f8e69d6c10b)
+
 
 #### Figura 2. Densidade da temperatura (°C) externa à colmeia.
-![densidade_temperatura_externa](https://github.com/user-attachments/assets/2ba056c4-bb40-41ac-a71a-b07a544b5e51)
+![densidade_temperatura_externa](https://github.com/user-attachments/assets/a1307a75-3268-457f-b1bb-3bf48ee5ac31)
+
+
+#### Figura 3. Boxplot da temperatura (°C) interna da colmeia.
+![Boxplot_temperatura_interna](https://github.com/user-attachments/assets/606ea7e6-f135-4b80-8307-29b8620e8dd9)
+
+
+#### Figura 4. Densidade da temperatura (°C) interna da colmeia.
+![densidade_temperatura_interna](https://github.com/user-attachments/assets/28750b3a-c9ec-481b-a00b-6f5c28bbd1ef)
+
+
+#### Figura 5. Boxplot da umidade externa (%) à colmeia.
+![Boxplot_umidade_externa](https://github.com/user-attachments/assets/0147f772-d60e-48b1-9d1e-f999f2227d77)
+
+
+#### Figura 6. Densidade da umidade externa (%) à colmeia.
+![Densidade_umidade_externa](https://github.com/user-attachments/assets/6ff78957-461e-4977-9a30-a8bdeab9b280)
+
+
+
 
 
 
