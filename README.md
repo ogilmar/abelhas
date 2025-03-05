@@ -63,7 +63,12 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ![Densidade_umidade_interna](https://github.com/user-attachments/assets/dbee6039-303b-46f0-85cf-02b92bc03377)
 
 
+#### Figura 10. Série temporal da temperatura ambiente (°C).
+![serietemporal_temperatura](https://github.com/user-attachments/assets/aee3660c-0f7d-40c5-a0c9-d9da0df073c0)
 
+
+#### Figura 11. Série temporal da umidade do ar (%).
+![serietemporal_umidade](https://github.com/user-attachments/assets/7f06ff5d-3840-4ce2-8d92-b253cbd2de64)
 
 
 
