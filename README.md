@@ -27,6 +27,8 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 
 ### Variáveis ambientais monitoradas. 
 
+As observaçções foram feiras entre as estações seca e chuvosa e a Figura 1 mostra o comportamento da precipotação (em mm de chuva) entre os meses de Março e Dezembro.
+
 #### Figura 1. Precipitação (mm) de chuva durante o período experimental
 ![grafico_precipitacao](https://github.com/user-attachments/assets/7e409101-e22e-4549-9ff0-99be5bd78d60)
 
@@ -35,7 +37,7 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ![Boxplot_temperatura_externa](https://github.com/user-attachments/assets/af4f12e7-00a7-4788-a007-4f8e69d6c10b)
 
 
-#### Figura 3. Densidade da temperatura (°C) externa à colmeia.
+#### Figura 3. Densidade de valores da temperatura (°C) externa à colmeia.
 ![densidade_temperatura_externa](https://github.com/user-attachments/assets/a1307a75-3268-457f-b1bb-3bf48ee5ac31)
 
 
@@ -43,7 +45,7 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ![Boxplot_temperatura_interna](https://github.com/user-attachments/assets/606ea7e6-f135-4b80-8307-29b8620e8dd9)
 
 
-#### Figura 5. Densidade da temperatura (°C) interna da colmeia.
+#### Figura 5. Densidade de valores da temperatura (°C) interna da colmeia.
 ![densidade_temperatura_interna](https://github.com/user-attachments/assets/28750b3a-c9ec-481b-a00b-6f5c28bbd1ef)
 
 
@@ -51,7 +53,7 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ![Boxplot_umidade_externa](https://github.com/user-attachments/assets/0147f772-d60e-48b1-9d1e-f999f2227d77)
 
 
-#### Figura 7. Densidade da umidade externa (%) à colmeia.
+#### Figura 7. Densidade de valores da umidade externa (%) à colmeia.
 ![Densidade_umidade_externa](https://github.com/user-attachments/assets/959fc2ea-d873-4f2d-bdbb-322b00de6b7d)
 
 
@@ -59,7 +61,7 @@ Determinar a influência de variáveis ammbientais sobre a natalidade, sexo dos 
 ![Boxplot_umidade_interna](https://github.com/user-attachments/assets/a7b10e73-4898-44a4-a5d7-c70b72ff43e6)
 
 
-#### Figura 9. Denisdade da umidade interna (%) da colmeia.
+#### Figura 9. Denisdade de valores da umidade interna (%) da colmeia.
 ![Densidade_umidade_interna](https://github.com/user-attachments/assets/dbee6039-303b-46f0-85cf-02b92bc03377)
 
 
